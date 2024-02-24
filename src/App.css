@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+  margin:0;
+  padding: 0;
+  box-sizing:0;
+}
+header{
+  display: flex;
+  justify-content: center;
+  background-color: #c879ff;
+}
+h1{
+  color: #fbfaff;
+  font-family: "Unna", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1:hover{
+  background: linear-gradient(#e0aaff, #9d4edd)
+
+}
